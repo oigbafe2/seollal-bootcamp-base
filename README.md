@@ -1,5 +1,7 @@
 # Seollal Bootcamp Base Project
 
+# Updated by Igbafe
+
 This project is meant to act as a baseline for building your Seollal bootcamp project.
 
 ## Setup for Development
